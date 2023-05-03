@@ -1,0 +1,60 @@
+.container{
+    width: 300px;
+    background-color: rgb(46, 84, 46);
+    display: flex;
+    flex-wrap: wrap;
+    color:white;
+    text-align: left;
+    padding: 15px 15px 15px 15px;
+    background-image: url("https://www.komar.de/media/catalog/product/cache/5/image/1230x/17f82f742ffe127f42dca9de82fb58b1/s/h/sh041-vd4_into_the_jungle_web.jpg");
+    background-size: auto;
+    background-blend-mode: overlay;
+} 
+
+h3 {
+    font-weight: bold;
+    color:white;
+}
+
+img{
+    position: relative;
+    border-style: solid;
+    border-width: 2px;
+    margin: 5px;
+}
+
+p {
+    color: white;
+    padding: 7px 7px 7px 7px;
+}
+
+.information{
+    border: 2px solid white;
+    padding: 2px 5px 5px 5px;
+}
+
+.fact {
+    color: white;
+    font-style: italic;
+    padding: 5px 5px 5px 5px;
+}
+
+.description {
+    color: white;
+    padding: 5px 5px 5px 5px;
+}
+
+span {
+    color:white;
+    text-align: left;
+    font-weight: bold;
+}
+
+ul { 
+    padding:2px;
+}
+
+li {
+    color:white;
+    list-style: none;
+}
